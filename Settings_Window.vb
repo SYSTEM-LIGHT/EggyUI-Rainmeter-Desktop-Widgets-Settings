@@ -6,9 +6,8 @@ Public Class Settings_Window
     ''' EggyUI是由BSOD-MEMZ及其团队开发的Windows美化包，可以在Windows系统上实现类似于游戏《蛋仔派对》的界面风格。
     ''' 这是Eggy UI 3.0 Rainmeter桌面小组件的设置程序，使用VB.NET语言编写（因为之前BSOD-MEMZ用易语言写的设置程序Bug很多，而导致用户体验不好）。
     ''' 这次的这个设置程序加入了更多预设头像，还有修改昵称的功能
-    ''' 作者：SYSTEM-LIGHT
-    ''' 作者B站主页：https://space.bilibili.com/1591761987
-    ''' 作者GitHub主页： https://github.com/SYSTEM-LIGHT
+    ''' 作者：冷落的小情绪
+    ''' 作者B站主页：https://space.bilibili.com/3546772339165612
     ''' 蛋仔派对官网：https://party.163.com
     ''' 欢迎来到Eggy UI官方QQ群：882583677
     ''' 有一些代码（包括注释）是用AI写的（当然我也对这些代码修改了一下）
